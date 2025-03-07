@@ -45,12 +45,12 @@
 ### 🛒 E-Commerce Website | Java, Spring Boot, React, PostgreSQL, JUnit
 - Created a **scalable e-commerce platform** inspired by a major clothing retailer, using **React** for the frontend and **Spring Boot** for the backend.  
 - Applied **SOLID principles** and **OOP best practices** to ensure maintainable and modular backend arhitecture.
-- Designed a **robust API** using **Spring Boot, Hibernate, and JPA**, enabling secure CRUD operations, product filtering, and efficient data handling.  
+- Designed and implemented a RESTful API using Spring Boot, Hibernate, and JPA for CRUD operations, product filtering, and user authentication.
 
 ### ✅ To-Do List Application | C#, .NET, React, PostgreSQL, Entity Framework
 - Built a **full-stack to-do list app** that allows users to create, edit, and manage tasks efficiently.  
-- Implemented **user authentication and authorization** using .NET Identity for secure access control.  
-- Utilized **Entity Framework with PostgreSQL** to ensure reliable data storage and fast retrieval.  
+- Implemented **secure user authentication and authorization** using .NET Identity.  
+- Utilized **Entity Framework with PostgreSQL** to optimize data retrieval, ensuring fast and reliable storage.  
 - Integrated **real-time task updates**, improving user experience and task organization.  
 
 ---
