@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Alexandru
 💡 Willing to learn anything that sparks my curiosity!  
 🔹 CS & Math student @ University of Bucharest  
-🔹 Aspiring Software Engineer | Full-Stack Enthusiast  
-🔹 Passionate about Backend Development & Algorithms  
+🔹 Aspiring Software Engineer 
+🔹 Passionate about Fullstack, Development & Algorithms  
 🔹 Always exploring new technologies and improving my skills  
 
 
