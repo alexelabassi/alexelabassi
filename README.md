@@ -57,9 +57,10 @@
 
 ## 🎓 University & Relevant Coursework
 📍 **University of Bucharest - Faculty of Mathematics and Computer Science**  
+- **Web Application Development**
+- **Object-Oriented Programming**
 - **Operating Systems**  
 - **Computer Architecture**  
-- **Web Application Development**  
 - **Data Structures & Algorithms**  
 - **Probability & Statistics**  
 - **Databases**  
