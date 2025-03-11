@@ -42,7 +42,7 @@
 - Integrated **AI-driven profile descriptions** using the OpenAI API to generate insights based on user activity.  
 - Built an **AI-powered recommendation system** using the OpenAI API to suggest users with similar profile interests.  
 
-### 🛒 E-Commerce Website | Java, Spring Boot, React, PostgreSQL, JUnit
+### 🛒 [E-Commerce Website](https://github.com/alexelabassi/E-Commerce-Platform) | Java, Spring Boot, React, PostgreSQL, JUnit
 - Created a **scalable e-commerce platform** inspired by a major clothing retailer, using **React** for the frontend and **Spring Boot** for the backend.  
 - Applied **SOLID principles** and **OOP best practices** to ensure maintainable and modular backend arhitecture.
 - Designed and implemented a RESTful API using Spring Boot, Hibernate, and JPA for CRUD operations, product filtering, and user authentication.
