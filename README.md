@@ -35,7 +35,7 @@
 
 ## 🚀 Projects
 
-### 📸 Social Media Platform | C#, .NET, React, PostgreSQL, Entity Framework
+### 📸 [Social Media Platform](https://github.com/alexelabassi/Social-Media-Platform) | C#, .NET, React, PostgreSQL, Entity Framework
 - Developed a **full-stack social media platform** with **posts, stories, groups, and messaging**.  
 - Implemented **role-based access control (RBAC)** for secure and personalized user experiences.**(guest, user, admin)**
 - Designed an optimized **PostgreSQL database schema** to efficiently manage user data, relationships and real-time interactions.  
