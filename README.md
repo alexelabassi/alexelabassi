@@ -47,12 +47,6 @@
 - Applied **SOLID principles** and **OOP best practices** to ensure maintainable and modular backend arhitecture.
 - Designed and implemented a RESTful API using Spring Boot, Hibernate, and JPA for CRUD operations, product filtering, and user authentication.
 
-### ✅ To-Do List Application | C#, .NET, React, PostgreSQL, Entity Framework
-- Built a **full-stack to-do list app** that allows users to create, edit, and manage tasks efficiently.  
-- Implemented **secure user authentication and authorization** using .NET Identity.  
-- Utilized **Entity Framework with PostgreSQL** to optimize data retrieval, ensuring fast and reliable storage.  
-- Integrated **real-time task updates**, improving user experience and task organization.  
-
 ---
 
 ## 🎓 University & Relevant Coursework
