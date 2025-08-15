@@ -34,6 +34,12 @@
 ---
 
 ## 🚀 Projects
+### 🧑‍💻 [Programming Assessment Platform](https://github.com/alexelabassi/LeetCode-Clone) | Java, Spring Boot, React, PostgreSQL, Redis, Judge0
+- Developed a **full-stack programming assessment platform** where users can browse coding problems, submit solutions, and track progress.  
+- Integrated **Judge0 API** for sandboxed, real-time code execution across multiple languages.  
+- Implemented **Redis caching** and query optimizations, cutting database load by ~45% during performance testing.  
+- Designed a **normalized PostgreSQL schema** to handle problems, test cases, and user submissions efficiently.  
+- Built a modern **React + TailwindCSS frontend** with features for **problem management, search, and submission history**.  
 
 ### 📸 [Social Media Platform](https://github.com/alexelabassi/Social-Media-Platform) | C#, .NET, React, PostgreSQL, Entity Framework
 - Developed a **full-stack social media platform** with **posts, stories, groups, and messaging**.  
