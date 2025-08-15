@@ -34,7 +34,7 @@
 ---
 
 ## 🚀 Projects
-### 🧑‍💻 [Programming Assessment Platform](https://github.com/alexelabassi/LeetCode-Clone) | Java, Spring Boot, React, PostgreSQL, Redis, Judge0
+### 🧑‍💻 [Programming Assessment Platform](https://github.com/alexelabassi/algocore) | Java, Spring Boot, React, PostgreSQL, Redis, Judge0
 - Developed a **full-stack programming assessment platform** where users can browse coding problems, submit solutions, and track progress.  
 - Integrated **Judge0 API** for sandboxed, real-time code execution across multiple languages.  
 - Implemented **Redis caching** and query optimizations, cutting database load by ~45% during performance testing.  
